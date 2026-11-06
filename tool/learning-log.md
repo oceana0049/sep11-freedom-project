@@ -1,22 +1,21 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **Kaboom**
 
-## Project: **X**
+## Project: **Freedom project**
 
 ---
 
-### X/X/XX:
-* Text
+### 10/25/26:
+* learned about the 3 functions, kaboom(), add([]), and loadSprite()
 
-### X/X/XX:
-* Text
+* add() puts something into your game
+onKeyDown does an action when you hold a key
+onKeyPress does an action when you press a key
+onCollide does an action upon colliding
 
+* I had extreme difficulty with tinkering as all the good websites were either blocked, or taken over by AI. 
 
 <!-- 
-* Links you used today (websites, videos, etc)
-* Things you tried, progress you made, etc
-* Challenges, a-ha moments, etc
-* Questions you still have
-* What you're going to try next
+youtube.com
 -->
