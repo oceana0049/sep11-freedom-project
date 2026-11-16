@@ -4,7 +4,7 @@
 ### Content
 I have decided on the kaboom tool, as it is a simple way to make a 2d game which is what I am trying to create. Here is some tinkering code from my learning log.
 
-``LOADING KABOOM & THE SPRITE:``
+LOADING KABOOM & THE SPRITE:
 ``kaboom() loadSprite("bean", "sprites/bean.png")``
 
 I plan to make a maze horror game, in which you must run and hide from Mr. Mueller while looking for peppermints across the map to escape.
